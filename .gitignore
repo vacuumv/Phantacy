@@ -3,7 +3,7 @@
 
 # Project Specific
 Config.ini
-*.json
+result_*.json
 *.csv
 *.big
 
